@@ -181,7 +181,7 @@ p {
         margin-right: 0;
     }
 
-    #title {
+    .title-container {
         text-align: center;
     }
 }
